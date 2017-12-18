@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="index" name="Manufacturing Control" page="True">
+          <t t-call="website.layout">
+            <div class="oe_structure">
+              <div class="container">
+                <center><h3>Manufacturing Control</h3></center>
+                <p>
+                </p>
+              </div>
+            </div>
+          </t>
+        </template>
+    </data>
+</odoo>
